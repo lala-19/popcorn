@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "363837908448",
+    "firebase_url": "https://popcorn-d2259.firebaseio.com",
+    "project_id": "popcorn-d2259",
+    "storage_bucket": "popcorn-d2259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363837908448:android:259749420ad32550",
+        "android_client_info": {
+          "package_name": "com.example.sarah.popularmoviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363837908448-t71pmqrqipo0eqbdgdhcle05ouvokrnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarah.popularmoviesapp",
+            "certificate_hash": "1c26900bb7fe47768f311ba5c9b7f2fa646b8e51"
+          }
+        },
+        {
+          "client_id": "363837908448-km8erdm4egdg5uvas0rf6vipgl08t2f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarah.popularmoviesapp",
+            "certificate_hash": "a4ba703376f79345b647f19332ff5053015af89c"
+          }
+        },
+        {
+          "client_id": "363837908448-cd8slekads9et6dj8ddsej2jbtfpvnoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4O3SqYLLLFtE_rat0igGzxMCJ6mZMLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363837908448-cd8slekads9et6dj8ddsej2jbtfpvnoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

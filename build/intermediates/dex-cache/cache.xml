@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-11.0.4_94b5b51a75bf38f537cdffb283993754fdf7477d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-11.0.4_d449730677a14f536993df59c2f340940e133024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38cbea06a82d3b0db4214dc3cc0fdd7940c8abe7">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-2.3.0_a413de2955e921362da02aaec739f4f8634c0316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-11.0.4_475c35d6196aae3cccfbe5f3a3beb07b972f0bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_3306616e38f02b9ae288e7c566bcd2531b0de6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.1_8a51d5deaf44905f767f02221714e12b339c4032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.1_f75ca3cd889d5879e568550a2a870d2fc7e04322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.1_79e3ff17e2c39b21454ae258b6d31f743a95dea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.1_45ac70f69c9633b9ae1ee116f9ba78186857aa25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_de20cc88c5123f38b7363fdbc2f934b438add943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_fcacda6822b5083ba76e2b2b6b87636cb356e075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_78fa6f8821da03b08d1b60188b45ae50909f35c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/customtabs/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="906fdd57c143ec9adc27a76a697fed1c0cfd6348">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-26.0.1_43fd862caf70de58523ca26cf7626d22e27af4c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-11.0.4_257bc79b7f8df27c68dd1e1cf5eddf270e688422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.1_f6359ac91a9aeb443793b4585a5530f89e379f7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.1_88eb8b24acb40ce6bc1d62510b22420362d31822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_2f204ad4443ab819b6c98e7d8b801abaa5e4d0f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.1_8ba960d1fc21883344fa5c667fa8085750dda6d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.4_d87badf03819f222f942681b17d783deed6b8de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-11.0.4_e60954f6a08f093480834f257093a21dd870e378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.0-beta1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5753660caa486676aacf05857930d76589a09af9">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.1.0-beta1_694d304a138ac5af359424939f5c01bea8b1d336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_6702a14cd1b9f8681ba8d5249c248f0e22b9a832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-11.0.4_f50f1691f22874a4725ee2373db5aaa1c9088af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_988e740afd2aa05e327fdb9dfca1053f6dfb8962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-26.0.1_0badb3660a28770876b92f3d6e460dca63965790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.1_d889d0893026946efd2257d7d63a6b775e57ba37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.1_4701b99deff5916472ffdbb37547ef660529ca83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/design/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c390af22079a61fdc42712c19f15a700f1fc2cbf">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.1_0d7992158968722337bb524cdfcbc0376cbfe536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-11.0.4_3cf3bd23999d0cd50ce43b2abaa32543aa81674d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_27ca460b1b9dfcc334d8726ff05575b3f622e16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_21dda590a018606896791b0ca8436af491ed8ad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.1_78c362b7208186549c68fdf619370e34a470a97e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="56e96fa067ba358a6c60184e40947810dcd78f30">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.1_398fd341c36f8c6a08babd48e6f1fe2c464a8d9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-11.0.4_de53bd05f1dd62d56c169e5ac2187cc202516689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.0-beta1/4205dd8c33ada1468ab377afff0be95304ef72a/constraint-layout-solver-1.1.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="04205dd8c33ada1468ab377afff0be95304ef72a">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.0-beta1_99c748239339ff780c2894fee1961c71fed6f143.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/home/sarao/AndroidStudioProjects/Popcorn/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.1_2bfc061ded74ba00d2e4c6e0b84b74e63fb44e00.jar" />
+    </item>
+
+</items>

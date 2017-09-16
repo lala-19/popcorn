@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Popcorn</string>
+    <string name="most_popular">Sort by Most Popular</string>
+    <string name="highest_rated">Sort by Highest Rated</string>
+    <string name="favorites">Favorite Movies</string>
+    <string name="make_favorite">Make As Favorite</string>
+    <string name="delete_favorite">Delete All Favorites</string>
+    <string name="trailers">Trailers: </string>
+    <string name="trailer">Trailer </string>
+    <string name="reviews">Reviews: </string>
+    <string name="sign_out">Sign Out</string>
+
+</resources>

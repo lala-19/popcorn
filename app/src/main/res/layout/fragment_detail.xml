@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:visibility="invisible"
+    tools:context="com.example.sarah.popcorn.DetailActivity$DetailFragment">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/title_txt_view"
+    android:padding="23dp"
+    android:textSize="32dp"
+    android:background="@color/grey"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="250dp"
+            android:id="@+id/poster_img_view"
+            android:layout_alignParentLeft="true"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="16dp"
+            android:layout_toRightOf="@+id/poster_img_view">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/date_txt_view"
+            android:textSize="24sp"
+            android:layout_marginBottom="8dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/vote_txt_view"
+            android:textSize="24sp"
+            android:layout_marginBottom="8dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/favorite_btn"
+            android:layout_marginBottom="8dp"
+            android:text="@string/make_favorite"
+            android:background="@color/grey"
+            android:textSize="16sp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/delete_btn"
+                android:text="@string/delete_favorite"
+                android:background="@color/grey"
+                android:textSize="16sp"/>
+        </LinearLayout>
+    </RelativeLayout>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/overview_txt_view"
+    android:layout_margin="8dp"
+    android:textSize="24sp"/>
+    <View
+        android:layout_width="350dp"
+        android:layout_height="1dp"
+        android:background="@color/black"
+        android:layout_marginTop="32dp"
+        android:layout_gravity="center_horizontal"/>
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="8dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/trailers_txt_view"
+        android:text="@string/trailers"
+        android:layout_margin="8dp"
+        android:textSize="24sp"/>
+    <com.example.sarah.popcorn.ListViewTemplate
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/trailers_list"></com.example.sarah.popcorn.ListViewTemplate>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/reviews_txt_view"
+        android:text="@string/reviews"
+        android:layout_margin="8dp"
+        android:textSize="24sp"/>
+    <com.example.sarah.popcorn.ListViewTemplate
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/reviews_list"></com.example.sarah.popcorn.ListViewTemplate>
+
+</LinearLayout>
+</LinearLayout>
+</ScrollView>
