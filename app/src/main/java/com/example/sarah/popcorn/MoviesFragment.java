@@ -171,6 +171,8 @@ public class MoviesFragment extends Fragment {
     public class FetchMoviesTask extends AsyncTask<String, Void, Void> {
 
         private final String LOG_TAG = FetchMoviesTask.class.getSimpleName();
+
+
         private MovieData[] getMoviesDataFromJson(String moviesJsonStr)
                 throws JSONException {
 
