@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity implements MoviesFragment.Ca
                     startActivityForResult(
                             AuthUI.getInstance()
                                     .createSignInIntentBuilder()
+                                    .setIsSmartLockEnabled(false)
                                     .setLogo(R.mipmap.ic_launcher_big)
                                     .setAvailableProviders(
                                             Arrays.asList(new AuthUI.IdpConfig.Builder(AuthUI.EMAIL_PROVIDER).build(),
@@ -64,7 +65,7 @@ public class MainActivity extends AppCompatActivity implements MoviesFragment.Ca
         if (!isOnline()){
             Toast.makeText(this, "Please check you internet connection", Toast.LENGTH_LONG).show();
         }
-        makeActionOverflowMenuShown();
+        //makeActionOverflowMenuShown();
 
         if (findViewById(R.id.detail_container) != null) {
             // The detail container view will be present only in the large-screen layouts
@@ -104,7 +105,7 @@ public class MainActivity extends AppCompatActivity implements MoviesFragment.Ca
         mFirebaseAuth.addAuthStateListener(mAuthStateListener);
     }
 
-    @Override
+    /*@Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.sign_out:
@@ -113,7 +114,7 @@ public class MainActivity extends AppCompatActivity implements MoviesFragment.Ca
             default:
                 return super.onOptionsItemSelected(item);
         }
-    }
+    }*/
 
     @Override
     protected void onPause() {
@@ -123,6 +124,11 @@ public class MainActivity extends AppCompatActivity implements MoviesFragment.Ca
         }
     }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        mFirebaseAuth.removeAuthStateListener(mAuthStateListener);
+    }
     @Override
     public void onItemSelected(MovieData movieData) {
 
@@ -160,7 +166,7 @@ public class MainActivity extends AppCompatActivity implements MoviesFragment.Ca
 
     }
 
-    private void makeActionOverflowMenuShown() {
+    /*private void makeActionOverflowMenuShown() {
         //devices with hardware menu button (e.g. Samsung Note) don't show action overflow menu
         try {
             ViewConfiguration config = ViewConfiguration.get(this);
@@ -172,7 +178,7 @@ public class MainActivity extends AppCompatActivity implements MoviesFragment.Ca
         } catch (Exception e) {
             Log.d("POP MOVIES", e.getLocalizedMessage());
         }
-    }
+    }*/
 
     static public boolean isOnline() {
 

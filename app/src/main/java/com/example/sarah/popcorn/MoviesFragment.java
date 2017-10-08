@@ -81,6 +81,8 @@ public class MoviesFragment extends Fragment {
         else {
             statusVal = savedInstanceState.getString(state);
         }
+
+       // getActivity().onBackPressed();
     }
 
     @Override
